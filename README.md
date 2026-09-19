@@ -17,7 +17,7 @@ MIYASAKA Masaru's Susie32 Pi Plug-in.
 The KTY/KT4 decoder is an independent implementation based on analysis of
 xgload and other publicly available implementations.
 
-See [`KTY_FORMAT.md`](KTY_FORMAT.md) for the reverse-engineered KTY/KT4
+See [`spec/KTY_FORMAT.md`](KTY_FORMAT.md) for the reverse-engineered KTY/KT4
 format description.
 
 ## License
